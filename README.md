@@ -12,3 +12,4 @@ $sudo yum install -y unixODBC.x86_64
 Verify the directory location of odbc.ini and odbcinst.ini (/etc)
 $odbcinst -j
 ```
+![odbcinst -j](https://github.com/lel99999/dev_SnowflakePOC/blob/main/odbcinst_cmd-01.PNG)
