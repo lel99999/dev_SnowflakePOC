@@ -15,4 +15,4 @@ $odbcinst -j
 ![odbcinst -j](https://github.com/lel99999/dev_SnowflakePOC/blob/main/odbcinst_cmd-01.PNG)
 
 #### Snowflake ODBC Driver location
-![ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/linux/2.22.3/index.html)
+![Snowflake ODBC Driver Download](https://sfc-repo.snowflakecomputing.com/odbc/linux/2.22.3/index.html)
