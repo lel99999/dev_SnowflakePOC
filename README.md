@@ -14,6 +14,20 @@ $odbcinst -j
 ```
 ![Cmd Result](https://github.com/lel99999/dev_SnowflakePOC/blob/main/odbcinst_cmd-01.PNG)
 
+#### Add/Edit /etc/odbc.ini
+
+[snowflake]
+Description=SnowflakeDB
+Driver=SnowflakeDSIIDriver
+Locale=en-US
+#SERVER=abc123.snowflakecomputing.com
+#SERVER=https://abc123.snowflakecomputing.com
+server=abc123.us-east-1.snowflakecomputing.com
+database=testDB
+#PORT=443
+#SSL=on
+ACCOUNT=abc123
+
 #### Snowflake ODBC Driver location
 [Snowflake ODBC Download Directory](https://sfc-repo.snowflakecomputing.com/odbc/linux/2.22.3/index.html)
 
