@@ -7,6 +7,10 @@ Snowflake Development and Testing
 #### Login to Snowflake, run DDL
 ![https://github.com/lel99999/dev_SnowflakePOC/blob/main/snowflake_insert-01.png](https://github.com/lel99999/dev_SnowflakePOC/blob/main/snowflake_insert-01.png)
 
+#### Test by Running SELECT query on CUSTOMERS table
+![https://github.com/lel99999/dev_SnowflakePOC/blob/main/snowflake_northwind-select-01.png
+](https://github.com/lel99999/dev_SnowflakePOC/blob/main/snowflake_northwind-select-01.png)
+
 #### Configuring unixODBC
 ```
 $sudo yum install -y unixODBC.x86_64
