@@ -4,6 +4,8 @@ Snowflake Development and Testing
 #### Adding Northwind Database
 ![Northwind ER](https://github.com/lel99999/dev_SnowflakePOC/blob/main/Northwind_ER.png)
 
+#### Login to Snowflake, run DDL
+![https://github.com/lel99999/dev_SnowflakePOC/blob/main/snowflake_insert-01.png](https://github.com/lel99999/dev_SnowflakePOC/blob/main/snowflake_insert-01.png)
 
 #### Configuring unixODBC
 ```
