@@ -30,7 +30,7 @@ ACCOUNT=abc123
 ```
 
 #### Snowflake ODBC Driver location
-[Snowflake ODBC Download Directory](https://sfc-repo.snowflakecomputing.com/odbc/linux/2.22.3/index.html)
+[Snowflake ODBC Download Directory - https://sfc-repo.snowflakecomputing.com/odbc/linux/2.22.3/index.html](https://sfc-repo.snowflakecomputing.com/odbc/linux/2.22.3/index.html)
 
 #### Install Snowflake ODBC
 ```
