@@ -54,3 +54,8 @@ ODBCInstLib=<driver_manager_path>
 CABundleFile=<path>/lib/cacert.pem
 ANSIENCODING=UTF-8
 ```
+#### Test ODBC Connection with isql using DSN connection string
+```
+$isql -v -k DSN=MyDSN;Database=NewDB;UID=<username>;PWD=<password>;
+```
+![https://github.com/lel99999/dev_SnowflakePOC/blob/main/isql_selectcustomers-01.PNG](https://github.com/lel99999/dev_SnowflakePOC/blob/main/isql_selectcustomers-01.PNG)
